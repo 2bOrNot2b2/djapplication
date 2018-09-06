@@ -20,6 +20,10 @@ export class LoginPage {
 
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> b246896c6623012e243dbf8d17b8ba9397535aa8
    var  kjsagddhgkjsagkjhsahgdhdkjsad;
    var change;
 
