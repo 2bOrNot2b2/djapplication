@@ -36,4 +36,6 @@ import { CategoriesPage } from '../pages/categories/categories';
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
-export class AppModule {}
+export class AppModule {
+    console.log('hello');
+}
