@@ -19,7 +19,12 @@ export class LoginPage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
 
 
+<<<<<<< HEAD
 
+=======
+   var  kjsagddhgkjsagkjhsahgdhdkjsad;
+   var change;
+>>>>>>> b2c0f1ecc2408f89df4a5e225b30cb044ed40e37
   }
 
   ionViewDidLoad() {
