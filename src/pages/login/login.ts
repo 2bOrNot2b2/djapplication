@@ -20,6 +20,7 @@ export class LoginPage {
 
 
    var  kjsagddhgkjsagkjhsahgdhdkjsad;
+   var change;
   }
 
   ionViewDidLoad() {
